@@ -1,0 +1,9 @@
+C:\Users\Nahuel\source\repos\Reloj\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\Nahuel\source\repos\Reloj\Reloj\bin\Debug\Reloj.exe
+C:\Users\Nahuel\source\repos\Reloj\Reloj\bin\Debug\Reloj.pdb
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.Form1.resources
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.exe
+C:\Users\Nahuel\source\repos\Reloj\Reloj\obj\Debug\Reloj.pdb
